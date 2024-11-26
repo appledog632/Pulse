@@ -26,7 +26,7 @@ Authentication: Firebase Authentication 🔐
 Clone the repository:**
 bash
 Copy code
-git clone https://github.com/appledog/Pulse.git
+git clone https://github.com/appledog632/Pulse.git
 
 
 **Navigate to the project folder:**
